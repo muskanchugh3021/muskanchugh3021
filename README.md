@@ -1,6 +1,6 @@
 ### Hi, I'm Muskan Chugh! 👋
 
-I am a detail-oriented Data Analyst with a strong foundation in Python and SQL. I specialize in data cleaning, ETL processes, and generating insights to drive business growth. I am experienced in building interactive dashboards with tools like Streamlit, Tableau, and Power BI. 
+I specialize in transforming raw, messy data into compelling visual stories and actionable business insights. My workflow revolves around extracting and cleaning data with Python and SQL, and bringing it to life through interactive dashboards in Power BI, Tableau, and Streamlit .
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
