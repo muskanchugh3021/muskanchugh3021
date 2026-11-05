@@ -1,4 +1,4 @@
-## Hi there 👋
+[📄 Download my Resume](Muskan_Chugh_Data_Analyst_Resume.pdf)
 
 <!--
 **muskanchugh3021/muskanchugh3021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
